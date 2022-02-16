@@ -112,7 +112,7 @@
 
 ## 5. Data Registration
 
-![](./images/data_reg1.png)
+![](./images/data_reg1_english.png)
 
 ```
 function magoLoadEnd(e) {

@@ -13,7 +13,7 @@
 
 [![img](https://www.youtube.com/s/desktop/0ac1422e/img/favicon_144x144.png)mago3D - 3D Data Conversion and Visualization](https://youtu.be/z3bUZA_jF4s)
 
-![img](./images/data1.png)
+![img](./images/data1_english.png)
 
 - Data group
 
@@ -59,7 +59,7 @@
 
 [![img](https://www.youtube.com/s/desktop/0ac1422e/img/favicon_144x144.png)mago3D - 2D Layer Visualization](https://www.youtube.com/watch?v=uKpysHvppKM&t=979s) 
 
-![img](./images/ls1.png)
+![img](./images/ls1_english.png)
 
 - Registering vector layer
 

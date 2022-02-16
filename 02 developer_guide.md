@@ -67,11 +67,11 @@
 
 ### Save path of F4D data (Full)
 
-![img](./images/f4d_data1.png)
+![img](./images/f4d_data1_english.png)
 
 ### Save path of F4D data (Detailed)
 
-![img](./images/f4d_data2.png)
+![img](./images/f4d_data2_english.png)
  
 
 ## 4. Understanding What RabbitMQ Does
@@ -127,7 +127,7 @@
 
 ### Flow Chart
 
-![img](./images/3dflow1.png)
+![img](./images/3dflow1_english.png)
 
  
 
@@ -166,11 +166,11 @@ Log file : `ConverterServiceImpl`, `executeConverter`
 - Vector 
   - Now, only shapefiles can be uploaded.
   - Shapefiles are registered using ogr2ogr; registering is GDAL dependent. 
-- ![img](./images/lm1.png)
+- ![img](./images/lm1_english.png)
 - Raster 
   - Raster data is mostly very large so admin does not upload data by data; admin registers data in the storage to GeoServer then manages them. 
   - Admin can set a layer registered at GeoServer as service object; can use not only WMS but GeoWebCache too by setting whether or not using cache.
-- ![img](./images/lm2.png)
+- ![img](./images/lm2_english.png)
 
 
 ## 7. Permissions Management
@@ -414,7 +414,7 @@ ORDER BY
 
   - Tomcat, WebSphere, JBoss, ...
 
-    ![img](./images/web1.png)
+    ![img](./images/web1_english.png)
 
 - Why we separate Web Server from WAS Server?
 
