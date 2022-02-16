@@ -27,7 +27,7 @@ Repository for mago3D documents.
 
 ### **3. Architecture of mago3D**
 
-![img](./images/mago2.png)
+![img](./images/mago2_english.png)
 
 ### **4. Components of mago3D**
 
