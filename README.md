@@ -23,7 +23,7 @@ Repository for mago3D documents.
 - Developing based on Open Sources; guaranteed developability and expandability
 - Efficient managements and super fast renderings of super large 3D files
 
-![img](./images/mago1.png)
+![img](./images/mago1_english.png)
 
 ### **3. Architecture of mago3D**
 
@@ -104,6 +104,6 @@ Repository for mago3D documents.
 |   **Design Layer**   | * Meaning 2D data to simulate<br />* Can reflects the extrusion (height property) of 2D data |
 |    **Smart Tiles**    | * Smart tiling for optimizing 3D visualization performance<br />* Have the pyramid structure<br />* Are how to save and visualize 3D data as tile structure<br />* Not loading full data in the display; Only requesting and rendering data with consideration for visibilities and distances from the camera's viewpoint |
 
-![](./images/9de76378-b910-4658-84e2-b80bd9b90b01.png)
+![](./images/9de76378-b910-4658-84e2-b80bd9b90b01_english.png)
 
-![](./images/ac3cdd08-1095-427d-a981-bd19b3b0acbf.png)
+![](./images/ac3cdd08-1095-427d-a981-bd19b3b0acbf_english.png)
